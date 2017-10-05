@@ -5,7 +5,9 @@ Patch Level: High, Middle, Low
 -------------------------------
 
 High: BUG like FC, NPE, ETC
+
 Middle: BUG, but its not important as High. OR Important functoin addition needed.
+
 Low: Function improvement
 
 High
