@@ -4,18 +4,24 @@ TODO
 Patch Level: High, Middle, Low
 -------------------------------
 
-High: BUG like FC, NPE, ETC
-
-Middle: BUG, but its not important as High. OR Important functoin addition needed.
+High: BUG like FC, NPE, ETC__
+Middle: BUG, but its not important as High. OR Important functoin addition needed.__
 
 Low: Function improvement
 
 High
 -----
+HexaSettings: It looks really crippy. Change PreferenceScreen to Preference__
+HexaSettings: Unknown NavBar settings FC__
+HexaSettings: NPE on System Animation(AOKP one)__
+
 
 Middle
 -------
+Support: DEVICE LED Implementation needed__
+FIX: Double Tap to sleep on StatusBar Settings__
 
 Low
 ----
+Merge some functions from nougat(Hexa)__
 
