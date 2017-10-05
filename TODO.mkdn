@@ -23,5 +23,6 @@ Middle
 
 Low
 ----
+- [ ] platform_build/vendor_hexa: Change device configuration algorithm <br />
 - [ ] Merge some functions from nougat(Hexa)<br />
 
