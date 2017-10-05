@@ -10,17 +10,17 @@ Low: Function improvement<br />
 
 High
 -----
-HexaSettings: It looks really crippy. Change PreferenceScreen to Preference<br />
-HexaSettings: Unknown NavBar settings FC<br />
-HexaSettings: NPE on System Animation(AOKP one)<br />
+- [ ] HexaSettings: It looks really crippy. Change PreferenceScreen to Preference<br />
+- [ ] HexaSettings: Unknown NavBar settings FC<br />
+- [ ] HexaSettings: NPE on System Animation(AOKP one)<br />
 
 
 Middle
 -------
-Support: DEVICE LED Implementation needed<br />
-FIX: Double Tap to sleep on StatusBar Settings<br />
+- [ ] Support: DEVICE LED Implementation needed<br />
+- [ ] FIX: Double Tap to sleep on StatusBar Settings<br />
 
 Low
 ----
-Merge some functions from nougat(Hexa)<br />
+- [ ] Merge some functions from nougat(Hexa)<br />
 
