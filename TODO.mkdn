@@ -18,7 +18,8 @@ High
 Middle
 -------
 - [x] Support: DEVICE LED Implementation needed<br />
-- [ ] FIX: Double Tap to sleep on StatusBar Settings<br />
+- [x] FIX: Double Tap to sleep on StatusBar Settings<br />
+- [ ] HexaSettings: Reorganize<br />
 
 Low
 ----
